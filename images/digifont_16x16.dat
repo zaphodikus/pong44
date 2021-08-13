@@ -1,0 +1,10 @@
+[FONT]
+chars = _:"c %% '()!+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ
+lowercase = False
+errorchar = 3
+image_width = 944
+cols = 59
+image_height = 16
+rows = 1
+
+

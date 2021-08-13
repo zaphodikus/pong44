@@ -1,0 +1,13 @@
+[FONT]
+chars = : ><\^|*1234567890ABCDEFGHIJKLMOPQRSTUVWXYZ.?!/N-+_
+lowercase = False
+errorchar = 0
+image_width = 128
+cols = 8
+image_height = 221
+rows = 7
+
+[ALT]
+_(_ = <
+_)_ = >
+_,_ = \
